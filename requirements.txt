@@ -1,0 +1,4 @@
+jupyterlab==4.0.7
+numpy==1.26.1
+
+
