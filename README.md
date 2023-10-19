@@ -16,3 +16,5 @@ pip install -r requirements.txt
 deactivate
 ```
 
+**Step 2**: Open Jupyter Lab  
+`jupyter lab`: this opens up a Jupyter notebook environment in the browser
