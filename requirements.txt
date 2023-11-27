@@ -1,4 +1,7 @@
 jupyterlab==4.0.7
 numpy==1.26.1
+torch==2.1.0
+torch_geometric==2.4.0
+torchvision==0.16.0
 
 
